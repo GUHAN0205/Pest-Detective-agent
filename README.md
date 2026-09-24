@@ -1,5 +1,5 @@
 # 🐞 Pest Detective Agent
-
+🌐 **Live Demo:** [Pest Detective Agent](https://pest-detective-agent-1.onrender.com)
 **Pest Detective Agent** is a Machine Learning-powered web application that helps farmers and agricultural professionals detect crop pests and diseases from plant leaf images. The system analyzes uploaded images, predicts the affected disease or pest, and provides treatment recommendations to improve crop health and reduce yield loss.
 
 ## 🌟 Features
